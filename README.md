@@ -54,9 +54,6 @@ Key peripheral interfaces:
 - **I2C Touch/Haptic:** SDA, SCL
 - **Programming:** SWDIO, SWDCLK[^2]
 
-## License
-
-
 ## schematics
 ![Alt text](images/schematics.png)
 

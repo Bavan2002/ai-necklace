@@ -10,3 +10,9 @@ A smart bluetooth device to wear as necklace
 ## pcb - bottom
 ![Alt text](images/bottom.png)
 
+## 3d - top
+![Alt text](images/3d-top.png)
+
+## 3d - bottom
+![Alt text](images/3d-bottom.png)
+
